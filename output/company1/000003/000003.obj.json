@@ -1,0 +1,74 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "65-216-1898",
+  "taxFormId" : "7428310",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0171813",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Raynor, Larkin and Marks"
+    },
+    "address" : {
+      "line1" : "06886 Abram Ramp",
+      "city" : "East Aliceborough",
+      "region" : "NC",
+      "postalCode" : "28474"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "scottie.rowe@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-86-0474",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Briana",
+      "last" : "Gibson"
+    },
+    "address" : {
+      "line1" : "1060 Wilkinson Groves",
+      "city" : "New Gregtown",
+      "region" : "RI",
+      "postalCode" : "99367"
+    },
+    "email" : "patrice.hoeger@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "paymentSettlementEntity" : true,
+  "electronicPaymentFacilitator" : true,
+  "paymentCard" : true,
+  "thirdPartyNetwork" : true,
+  "pseName" : "pseName",
+  "psePhone" : {
+    "country" : "country",
+    "number" : "number",
+    "extension" : "extension"
+  },
+  "accountNumber" : "399-18087-1",
+  "grossAmount" : 200,
+  "cardNotPresent" : 300,
+  "merchantCategoryCode" : "merchantCategoryCode",
+  "numberOfTransactions" : 400,
+  "federalTaxWithheld" : 500,
+  "monthAmounts" : [ {
+    "month" : "JAN",
+    "amount" : 600
+  } ],
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 700,
+      "taxId" : "72-524893",
+      "income" : 800
+    },
+    "local" : {
+      "taxWithheld" : 900,
+      "localityName" : "Sebastianborough",
+      "income" : 1000
+    }
+  } ],
+  "secondTinNotice" : true
+}
