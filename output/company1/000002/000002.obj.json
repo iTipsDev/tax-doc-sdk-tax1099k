@@ -1,0 +1,84 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "02-980-6302",
+  "taxFormId" : "4173471",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0640724",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Streich-Stark"
+    },
+    "address" : {
+      "line1" : "2568 Dare Groves",
+      "city" : "Davistown",
+      "region" : "MN",
+      "postalCode" : "87311",
+      "unitType" : "Apt",
+      "unitNumber" : "948"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lindsey.nicolas@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-98-2902",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Emmett",
+      "middle" : "Mackenzie",
+      "last" : "Mertz"
+    },
+    "businessName" : {
+      "name1" : "Abshire and Sons"
+    },
+    "address" : {
+      "line1" : "19971 Bethann Stravenue",
+      "city" : "South Johana",
+      "region" : "DE",
+      "postalCode" : "83665",
+      "unitType" : "Apt",
+      "unitNumber" : "898"
+    },
+    "email" : "vivien.bashirian@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "paymentSettlementEntity" : true,
+  "electronicPaymentFacilitator" : true,
+  "paymentCard" : true,
+  "thirdPartyNetwork" : true,
+  "pseName" : "pseName",
+  "psePhone" : {
+    "country" : "country",
+    "number" : "number",
+    "extension" : "extension"
+  },
+  "accountNumber" : "570-50793-3",
+  "grossAmount" : 200,
+  "cardNotPresent" : 300,
+  "tips" : 400,
+  "occupationCodes" : [ "201" ],
+  "merchantCategoryCode" : "2219",
+  "numberOfTransactions" : 500,
+  "federalTaxWithheld" : 600,
+  "monthAmounts" : [ {
+    "month" : "JAN",
+    "amount" : 700
+  } ],
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 800,
+      "taxId" : "21-505057",
+      "income" : 900
+    },
+    "local" : {
+      "taxWithheld" : 1000,
+      "localityName" : "Ornton",
+      "income" : 1100
+    }
+  } ],
+  "secondTinNotice" : true
+}

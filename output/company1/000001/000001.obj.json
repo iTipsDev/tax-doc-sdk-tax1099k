@@ -1,0 +1,84 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "73-626-0436",
+  "taxFormId" : "6674398",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0640724",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Streich-Stark"
+    },
+    "address" : {
+      "line1" : "2568 Dare Groves",
+      "city" : "Davistown",
+      "region" : "MN",
+      "postalCode" : "87311",
+      "unitType" : "Apt",
+      "unitNumber" : "948"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lindsey.nicolas@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-86-7088",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Steven",
+      "middle" : "Cyril",
+      "last" : "Reilly"
+    },
+    "businessName" : {
+      "name1" : "Kozey-Kub"
+    },
+    "address" : {
+      "line1" : "5373 Rowe Club",
+      "city" : "Nienowstad",
+      "region" : "IN",
+      "postalCode" : "49465",
+      "unitType" : "Apt",
+      "unitNumber" : "788"
+    },
+    "email" : "chau.luettgen@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "paymentSettlementEntity" : true,
+  "electronicPaymentFacilitator" : true,
+  "paymentCard" : true,
+  "thirdPartyNetwork" : true,
+  "pseName" : "pseName",
+  "psePhone" : {
+    "country" : "country",
+    "number" : "number",
+    "extension" : "extension"
+  },
+  "accountNumber" : "695-77207-2",
+  "grossAmount" : 200,
+  "cardNotPresent" : 300,
+  "tips" : 400,
+  "occupationCodes" : [ "201" ],
+  "merchantCategoryCode" : "2865",
+  "numberOfTransactions" : 500,
+  "federalTaxWithheld" : 600,
+  "monthAmounts" : [ {
+    "month" : "JAN",
+    "amount" : 700
+  } ],
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 800,
+      "taxId" : "90-948823",
+      "income" : 900
+    },
+    "local" : {
+      "taxWithheld" : 1000,
+      "localityName" : "Mooremouth",
+      "income" : 1100
+    }
+  } ],
+  "secondTinNotice" : true
+}
